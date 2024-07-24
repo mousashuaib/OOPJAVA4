@@ -1,4 +1,5 @@
 public class Dog extends Animal {
+    //this calss doggi
     public Dog(String name, int age) {
         super(name, age);
     }
