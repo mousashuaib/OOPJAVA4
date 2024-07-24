@@ -24,4 +24,8 @@ public abstract class Animal {
     }
 //mousa shuiab
     public abstract void makeSound();  // Abstract method
+
+    public void eat() {
+        System.out.println("I am eating");
+    }
 }
