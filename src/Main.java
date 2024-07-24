@@ -6,7 +6,7 @@ public class Main {
         myDog.makeSound();
         myCat.makeSound();
 
-        System.out.println(myDog.getName() + " is " + myDog.getAge() + " years old.");
+        System.out.println(myDog.getName() + " is " + myDog.getAge() + " Zaid years old.");
         System.out.println(myCat.getName() + " is " + myCat.getAge() + " years old.");
     }
 }
